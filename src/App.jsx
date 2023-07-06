@@ -7,7 +7,7 @@ import { createRoot } from 'react-dom/client';
 // 70c095f9
 import MovieCard from './MovieCard';
 const root = createRoot(document.getElementById("root"));
-const API_URL = 'http://www.omdbapi.com?apikey=9dcd9adc';
+const API_URL = 'http://www.omdbapi.com?apikey=70c095f9';
 const movie1 = {
   
     "Title": "Superman, Spiderman or Batman",
